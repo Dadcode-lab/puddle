@@ -6,3 +6,8 @@ db.sqlite3
 */.DS_Store
 */*/.DS_Store
 .store/
+gunicorn
+requests
+puddle/.env
+
+__pycache__/
